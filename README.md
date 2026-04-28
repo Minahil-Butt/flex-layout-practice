@@ -26,8 +26,7 @@ Each section demonstrates alignment, spacing, and flexible layouts using modern 
 
 ## 🔗 Live Preview
 
-- 💳 [Pricing Card Layout](https://minahil-butt.github.io/flex-layout-practice/pricing-card-flexbox/)
-- 👥 [Team Cards Layout](https://minahil-butt.github.io/flex-layout-practice/teams-card-flexbox/)
+[View the Live Page](https://minahil-butt.github.io/flex-layout-practice/)
 
 ## 📬 Connect
 
